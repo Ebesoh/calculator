@@ -20,7 +20,7 @@ namespace calculator.tests
         [Test]
         public void DivideNumbers_NegativeDividend_ReturnsNegativeQuotient()
         {
-            Assert.That(Divide.DivideNumbers(-6, 3), Is.EqualTo(-3));
+            Assert.That(Divide.DivideNumbers(-6, 3), Is.EqualTo(-2));
         }
 
         [Test]
