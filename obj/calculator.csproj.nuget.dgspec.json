@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\ProjectEbesoh\\calculator\\calculator.csproj": {}
+    "C:\\ProjectEbesoh\\calculator\\calculator.csproj": {}
   },
   "projects": {
-    "c:\\ProjectEbesoh\\calculator\\calculator.csproj": {
+    "C:\\ProjectEbesoh\\calculator\\calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\ProjectEbesoh\\calculator\\calculator.csproj",
+        "projectUniqueName": "C:\\ProjectEbesoh\\calculator\\calculator.csproj",
         "projectName": "calculator",
-        "projectPath": "c:\\ProjectEbesoh\\calculator\\calculator.csproj",
+        "projectPath": "C:\\ProjectEbesoh\\calculator\\calculator.csproj",
         "packagesPath": "C:\\Users\\ebeso\\.nuget\\packages\\",
-        "outputPath": "c:\\ProjectEbesoh\\calculator\\obj\\",
+        "outputPath": "C:\\ProjectEbesoh\\calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ebeso\\AppData\\Roaming\\NuGet\\NuGet.Config"

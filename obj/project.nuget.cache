@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3U89v6QI0rI=",
+  "dgSpecHash": "/W7ZvQAVwhs=",
   "success": true,
-  "projectFilePath": "c:\\ProjectEbesoh\\calculator\\calculator.csproj",
+  "projectFilePath": "C:\\ProjectEbesoh\\calculator\\calculator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ebeso\\.nuget\\packages\\microsoft.applicationinsights\\2.23.0\\microsoft.applicationinsights.2.23.0.nupkg.sha512",
     "C:\\Users\\ebeso\\.nuget\\packages\\microsoft.codecoverage\\18.0.0\\microsoft.codecoverage.18.0.0.nupkg.sha512",
