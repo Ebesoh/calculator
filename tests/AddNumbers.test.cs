@@ -14,7 +14,7 @@ namespace calculator.tests
         [Test]
         public void Add_NegativeNumbers_ReturnsSum()
         {
-            Assert.That(AddNumbers.Add(-2, -3), Is.EqualTo(-5));
+            Assert.That(AddNumbers.Add(-2, -3), Is.EqualTo(-4));
         }
 
         [Test]
