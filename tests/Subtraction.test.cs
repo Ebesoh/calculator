@@ -26,7 +26,7 @@ namespace calculator.tests
         [Test]
         public void SubtractNumbers_Zero_ReturnsCorrectResult()
         {
-            Assert.That(Subtraction.SubtractNumbers(5, 1), Is.EqualTo(5));
+            Assert.That(Subtraction.SubtractNumbers(5, 0), Is.EqualTo(5));
         }
 
         [Test]
