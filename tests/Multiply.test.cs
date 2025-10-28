@@ -20,7 +20,7 @@ namespace calculator.tests
         [Test]
         public void MultiplyNumbers_PositiveAndNegativeNumbers_ReturnsCorrectProduct()
         {
-            Assert.That(Multiply.MultiplyNumbers(3, -4), Is.EqualTo(-11));
+            Assert.That(Multiply.MultiplyNumbers(3, -4), Is.EqualTo(-12));
         }
 
         [Test]
