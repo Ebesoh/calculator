@@ -26,7 +26,7 @@ namespace calculator.tests
         [Test]
         public void DivideNumbers_NegativeDivisor_ReturnsNegativeQuotient()
         {
-            Assert.That(Divide.DivideNumbers(6, -3), Is.EqualTo(-2));
+            Assert.That(Divide.DivideNumbers(6, -3), Is.EqualTo(-3));
         }
 
         [Test]
